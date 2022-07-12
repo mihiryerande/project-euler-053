@@ -16,7 +16,7 @@
 from math import inf
 
 
-def main():
+def main() -> int:
     """
     Returns the number of non-distinct values of (n choose r) which are greater than one million.
 
